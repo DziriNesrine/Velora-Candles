@@ -6,7 +6,12 @@
   Velora Candles is a fully responsive digital website and a premium e-commerce concept for handcrafted scented candles, blending minimalist design, warm visuals, and smooth navigation to showcase craftsmanship, sustainability, and quality while creating an elegant, immersive user experience. <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 ### Logo 
-[Velora Candles Logo](./img/Velora%20Candles%20Logo.png)
+<p align="center">
+  <a href="./img/Velora%20Candles%20Logo.png">
+    <img src="./img/Velora%20Candles%20Logo.png" alt="Velora Candles Logo" width="200"/>
+  </a>
+</p>
+
 
 </div>
 
