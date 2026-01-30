@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
   <h2 align="center">Velora Candles - Digital Website</h2>
@@ -44,4 +44,4 @@ This project is **free to use** and does not contains any license.
 =======
 # Velora-Candles
 Velora Candles is a premium e-commerce concept for handcrafted scented candles, blending minimalist design, warm visuals, and smooth navigation to showcase craftsmanship, sustainability, and quality while creating an elegant, immersive user experience.
->>>>>>> 268ce4d04c0a78a76e282c83e10feb5cd95815f5
+
